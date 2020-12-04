@@ -90,3 +90,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# OpenCV
+
+opencv2.xcframework/
+opencv2-*.xcframework.zip
